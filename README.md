@@ -1,5 +1,6 @@
 # Pandas
 A collection of self-made Pandas study materials with simplified explanations, key concepts, and visual notes. Designed to make learning Pandas easier through hand-crafted diagrams, examples, and step-by-step breakdowns.
+
 # Pandas Study Notes 🐼
 
 This repository contains my personal study material for learning **pandas**, the powerful data analysis library in Python.  
